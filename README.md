@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.jpg" width="100%">
+  <img src="[images/banner.jpg](https://github.com/Marianoz1972/Maya_Flow_Toolkit/blob/800eea0a8da34842fe8102c014de02a8ef3e373a/IMAGE/Maya%20flow%20Toolkit.pdf)" width="100%">
 </p>
 
 <h1 align="center">MayaFlow Toolkit</h1>
