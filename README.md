@@ -19,7 +19,7 @@
 ![Maya](https://img.shields.io/badge/Maya-2024--2027-37A5CC?style=for-the-badge&logo=autodesk)
 ![Python](https://img.shields.io/badge/Python-Workflow_Tools-3776AB?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Active_Development-00C896?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Commercial-darkred?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Free-darkred?style=for-the-badge)
 
 </p>
 
@@ -27,34 +27,50 @@
 
 # Overview
 
-**MayaFlow Toolkit** is a workflow utility designed to reduce onboarding friction for artists transitioning from Blender into Maya production pipelines.
+**MayaFlow Toolkit** is a workflow utility designed to reduce onboarding friction for artists transitioning from Blender into professional Maya pipelines.
 
-The toolkit focuses on:
+The toolkit introduces a Blender-inspired workflow layer directly inside Maya, simplifying:
 
-- Faster onboarding
-- Blender-inspired workflow
-- UV workflow acceleration
-- Viewport utilities
-- Technical Artist workflow systems
-- Production efficiency
-- Pipeline integration
+- Navigation
+- UV workflows
+- Viewport interaction
+- Asset manipulation
+- Material visualization
+- Production workflows
+
+The project focuses on improving production efficiency during short onboarding windows and rapid team integration. :contentReference[oaicite:0]{index=0}
 
 ---
 
 # Vision
 
-Production teams frequently need to integrate freelance or external artists during short production windows.
+Production teams frequently need to integrate artists quickly during short production cycles.
 
-Artists coming from Blender often experience friction adapting to:
+Artists coming from Blender often experience friction adapting to Maya workflows.
 
-- Maya navigation
-- UV workflows
-- Viewport interaction
-- Tool organization
-- Scene management
-- Production workflows
+MayaFlow Toolkit was created to:
 
-MayaFlow Toolkit introduces a Blender-inspired workflow layer directly into Maya to accelerate adaptation and simplify production interaction.
+✅ Accelerate onboarding  
+✅ Improve production adaptation  
+✅ Simplify repetitive workflows  
+✅ Reduce viewport friction  
+✅ Improve UV visualization  
+✅ Create a more artist-friendly Maya experience  
+
+---
+
+# Productivity Optimization
+
+MayaFlow Toolkit focuses on reducing repetitive production tasks and improving workflow speed.
+
+| Without Toolkit | With MayaFlow Toolkit |
+|---|---|
+| Slow adaptation to Maya | Fast adaptation |
+| Difficult asset manipulation | Effective asset workflow |
+| Slow UV seam visualization | Fast UV seam feedback |
+| Slow material visualization | Fast material workflow |
+
+The optimization comparison shown in the presentation demonstrates the workflow acceleration philosophy of the tool. :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -64,66 +80,81 @@ MayaFlow Toolkit introduces a Blender-inspired workflow layer directly into Maya
 
 ## UV Workflow
 
+Powerful UV workflow utilities that improve seam visibility and identification.
+
+### Features
+
 - UV Seam Visualization
-- Persistent Seam System
+- Enhanced Seam Highlighting
 - Adjustable Seam Thickness
-- Real-time Overlay Feedback
-- Blender-inspired UV interaction
+- Real-time Feedback
+- Blender-inspired UV Workflow
 
 <p align="center">
   <img src="images/uv_workflow.jpg" width="100%">
 </p>
 
+The UV system allows seams to become significantly easier to identify during production workflows. :contentReference[oaicite:2]{index=2}
+
 ---
 
 ## Viewport Utilities
 
+Fast viewport interaction tools designed to simplify production work.
+
+### Features
+
 - Toggle Wireframe
 - Toggle Textures
 - Use Default Material
-- Fast Viewport Cleanup
-- Overlay Utilities
-
-<p align="center">
-  <img src="images/viewport.jpg" width="100%">
-</p>
+- Overlay Visualization
+- Viewport Cleanup
 
 ---
 
 ## Transform Workflow
 
+Simplified geometry scaling and manipulation utilities.
+
+### Features
+
 - XYZ Scale Controls
-- Uniform Scale System
+- Uniform Scale
 - Reset Scale
-- Quick Manipulation Utilities
+- Coordinate-based Scaling
 
 <p align="center">
   <img src="images/scale_workflow.jpg" width="100%">
 </p>
 
+The scaling workflow allows artists to quickly manipulate geometry and restore original scale values. :contentReference[oaicite:3]{index=3}
+
 ---
 
 ## Material Workflow
 
-- Fast Material Creation
-- Maya Shader Integration
-- Simplified Material Workflow
+Quick-access material workflow tools integrated directly into the UI.
 
-<p align="center">
-  <img src="images/materials.jpg" width="100%">
-</p>
+### Features
+
+- Fast Material Creation
+- Maya Shader Selection
+- Quick Material Assignment
+- Texture Workflow Support
 
 ---
 
 ## Camera Utilities
 
+Rapid render camera creation tools.
+
+### Features
+
 - One-click Render Camera Creation
 - Fast Scene Setup
-- Quick Render Workflow
+- Quick Camera Workflow
 
-<p align="center">
-  <img src="images/camera_tools.jpg" width="100%">
-</p>
+The toolkit centralizes repetitive production actions into a single streamlined interface. :contentReference[oaicite:4]{index=4}
 
 ---
 
@@ -133,55 +164,35 @@ MayaFlow Toolkit introduces a Blender-inspired workflow layer directly into Maya
   <img src="images/ui.jpg" width="100%">
 </p>
 
----
-
-# Productivity Optimization
-
-<p align="center">
-  <img src="images/time_optimization.jpg" width="100%">
-</p>
-
-MayaFlow Toolkit was designed to significantly reduce repetitive production tasks and improve artist onboarding efficiency.
-
-### Goals
-
-✅ Reduce onboarding friction  
-✅ Accelerate Blender → Maya adaptation  
-✅ Improve production speed  
-✅ Simplify repetitive workflows  
-✅ Create a more artist-friendly Maya experience  
+The UI was designed with a centralized workflow philosophy inspired by Blender simplicity and Technical Artist production pipelines.
 
 ---
 
 # Why MayaFlow Toolkit?
 
+Many studios require:
+
+- Fast artist integration
+- Short onboarding windows
+- Production acceleration
+- Faster adaptation to Maya
+
 Traditional Maya workflows can become difficult for artists migrating from Blender.
 
-MayaFlow Toolkit focuses on:
-
-- Familiar interaction
-- Faster workflow adaptation
-- Simplified viewport management
-- Technical Artist production utilities
-- Better onboarding experience
-
-The objective is not to replace Maya workflows, but to create a more artist-friendly bridge between Blender and Maya.
+MayaFlow Toolkit introduces a workflow bridge between Blender and Maya to improve artist adaptation and production efficiency. :contentReference[oaicite:5]{index=5}
 
 ---
 
-# Roadmap
+# Technical Stack
 
-## Planned Features
+| Category | Value |
+|---|---|
+| Language | Python |
+| Platform | Maya-win |
+| Current Version | V0.01 |
+| Maintenance | Active |
 
-- Blender Navigation Presets
-- Advanced UV Toolkit
-- Unreal Engine Integration
-- Viewport Draw API Integration
-- Overlay Rendering System
-- Custom Hotkeys
-- Batch Export Utilities
-- Pipeline Automation
-- Compiled Plugin Version (.mll)
+Technical information extracted from the project documentation. :contentReference[oaicite:6]{index=6}
 
 ---
 
@@ -196,20 +207,10 @@ The objective is not to replace Maya workflows, but to create a more artist-frie
 
 ---
 
-# Technical Stack
-
-- Python
-- Maya cmds API
-- OpenMaya API
-- Viewport 2.0 Concepts
-- Technical Artist Workflow Systems
-
----
-
 # Installation
 
 ```python
 # Open Maya
 # Open Script Editor
 # Paste MayaFlow Toolkit script
-# Execute script# Maya_Flow_Toolkit
+# Execute script
