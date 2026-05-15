@@ -1,4 +1,4 @@
-![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/b466b7c6acd616cbc2327045522d062c5c35319a/ChatGPT%20Image%2023%20abr%202026%2C%2007_18_49%20p.m..png)
+![image alt](https://github.com/Marianoz1972/Maya_Flow_Toolkit/blob/main/IMAGE/Maya%20flow%20Toolkit_page-0001.jpg?raw=true)
 
 <p align="center">
   <img src="[images/banner.jpg](https://github.com/Marianoz1972/Maya_Flow_Toolkit/blob/800eea0a8da34842fe8102c014de02a8ef3e373a/IMAGE/Maya%20flow%20Toolkit.pdf)" width="100%">
